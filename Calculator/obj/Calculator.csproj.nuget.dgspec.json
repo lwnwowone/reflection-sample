@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/wennan.liu/dotnet/Calculator2/Calculator/Calculator.csproj": {}
+  },
+  "projects": {
+    "/Users/wennan.liu/dotnet/Calculator2/Calculator/Calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/wennan.liu/dotnet/Calculator2/Calculator/Calculator.csproj",
+        "projectName": "Calculator",
+        "projectPath": "/Users/wennan.liu/dotnet/Calculator2/Calculator/Calculator.csproj",
+        "packagesPath": "/Users/wennan.liu/.nuget/packages/",
+        "outputPath": "/Users/wennan.liu/dotnet/Calculator2/Calculator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/wennan.liu/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/wennan.liu/dotnet/Calculator2/ICalculating/ICalculating.csproj": {
+                "projectPath": "/Users/wennan.liu/dotnet/Calculator2/ICalculating/ICalculating.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.8, 3.1.8]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/wennan.liu/dotnet/Calculator2/ICalculating/ICalculating.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/wennan.liu/dotnet/Calculator2/ICalculating/ICalculating.csproj",
+        "projectName": "ICalculating",
+        "projectPath": "/Users/wennan.liu/dotnet/Calculator2/ICalculating/ICalculating.csproj",
+        "packagesPath": "/Users/wennan.liu/.nuget/packages/",
+        "outputPath": "/Users/wennan.liu/dotnet/Calculator2/ICalculating/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/wennan.liu/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

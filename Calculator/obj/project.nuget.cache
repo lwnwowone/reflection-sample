@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AWYH/mnKGBFXyBzx/XYrkZBoLK2vGcLThj1ZVlyTSImlfZEOLmaPcpj9nfR8jenmQPMIszzicgqZRadZkb7Tnw==",
+  "success": true,
+  "projectFilePath": "/Users/wennan.liu/dotnet/Calculator2/Calculator/Calculator.csproj",
+  "expectedPackageFiles": [
+    "/Users/wennan.liu/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/wennan.liu/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

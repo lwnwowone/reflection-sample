@@ -1,0 +1,12 @@
+/Users/wennan.liu/dotnet/Calculator2/ExtraCalculateMethod/bin/Debug/netstandard2.1/ExtraCalculateMethod.deps.json
+/Users/wennan.liu/dotnet/Calculator2/ExtraCalculateMethod/bin/Debug/netstandard2.1/ExtraCalculateMethod.dll
+/Users/wennan.liu/dotnet/Calculator2/ExtraCalculateMethod/bin/Debug/netstandard2.1/ExtraCalculateMethod.pdb
+/Users/wennan.liu/dotnet/Calculator2/ExtraCalculateMethod/obj/Debug/netstandard2.1/ExtraCalculateMethod.csprojAssemblyReference.cache
+/Users/wennan.liu/dotnet/Calculator2/ExtraCalculateMethod/obj/Debug/netstandard2.1/ExtraCalculateMethod.AssemblyInfoInputs.cache
+/Users/wennan.liu/dotnet/Calculator2/ExtraCalculateMethod/obj/Debug/netstandard2.1/ExtraCalculateMethod.AssemblyInfo.cs
+/Users/wennan.liu/dotnet/Calculator2/ExtraCalculateMethod/obj/Debug/netstandard2.1/ExtraCalculateMethod.csproj.CoreCompileInputs.cache
+/Users/wennan.liu/dotnet/Calculator2/ExtraCalculateMethod/obj/Debug/netstandard2.1/ExtraCalculateMethod.dll
+/Users/wennan.liu/dotnet/Calculator2/ExtraCalculateMethod/obj/Debug/netstandard2.1/ExtraCalculateMethod.pdb
+/Users/wennan.liu/dotnet/Calculator2/ExtraCalculateMethod/bin/Debug/netstandard2.1/ICalculating.dll
+/Users/wennan.liu/dotnet/Calculator2/ExtraCalculateMethod/bin/Debug/netstandard2.1/ICalculating.pdb
+/Users/wennan.liu/dotnet/Calculator2/ExtraCalculateMethod/obj/Debug/netstandard2.1/ExtraCalculateMethod.csproj.CopyComplete

@@ -1,0 +1,9 @@
+/Users/wennan.liu/dotnet/Calculator2/ICalculating/bin/Debug/netstandard2.1/ICalculating.deps.json
+/Users/wennan.liu/dotnet/Calculator2/ICalculating/bin/Debug/netstandard2.1/ICalculating.dll
+/Users/wennan.liu/dotnet/Calculator2/ICalculating/bin/Debug/netstandard2.1/ICalculating.pdb
+/Users/wennan.liu/dotnet/Calculator2/ICalculating/obj/Debug/netstandard2.1/ICalculating.csprojAssemblyReference.cache
+/Users/wennan.liu/dotnet/Calculator2/ICalculating/obj/Debug/netstandard2.1/ICalculating.AssemblyInfoInputs.cache
+/Users/wennan.liu/dotnet/Calculator2/ICalculating/obj/Debug/netstandard2.1/ICalculating.AssemblyInfo.cs
+/Users/wennan.liu/dotnet/Calculator2/ICalculating/obj/Debug/netstandard2.1/ICalculating.csproj.CoreCompileInputs.cache
+/Users/wennan.liu/dotnet/Calculator2/ICalculating/obj/Debug/netstandard2.1/ICalculating.dll
+/Users/wennan.liu/dotnet/Calculator2/ICalculating/obj/Debug/netstandard2.1/ICalculating.pdb

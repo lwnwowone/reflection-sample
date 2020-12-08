@@ -1,0 +1,11 @@
+/Users/wennan.liu/dotnet/Calculator2/CalculateMethod/bin/Debug/netstandard2.1/CalculateMethod.deps.json
+/Users/wennan.liu/dotnet/Calculator2/CalculateMethod/bin/Debug/netstandard2.1/CalculateMethod.dll
+/Users/wennan.liu/dotnet/Calculator2/CalculateMethod/bin/Debug/netstandard2.1/CalculateMethod.pdb
+/Users/wennan.liu/dotnet/Calculator2/CalculateMethod/bin/Debug/netstandard2.1/ICalculating.dll
+/Users/wennan.liu/dotnet/Calculator2/CalculateMethod/bin/Debug/netstandard2.1/ICalculating.pdb
+/Users/wennan.liu/dotnet/Calculator2/CalculateMethod/obj/Debug/netstandard2.1/CalculateMethod.AssemblyInfoInputs.cache
+/Users/wennan.liu/dotnet/Calculator2/CalculateMethod/obj/Debug/netstandard2.1/CalculateMethod.AssemblyInfo.cs
+/Users/wennan.liu/dotnet/Calculator2/CalculateMethod/obj/Debug/netstandard2.1/CalculateMethod.csproj.CoreCompileInputs.cache
+/Users/wennan.liu/dotnet/Calculator2/CalculateMethod/obj/Debug/netstandard2.1/CalculateMethod.csproj.CopyComplete
+/Users/wennan.liu/dotnet/Calculator2/CalculateMethod/obj/Debug/netstandard2.1/CalculateMethod.dll
+/Users/wennan.liu/dotnet/Calculator2/CalculateMethod/obj/Debug/netstandard2.1/CalculateMethod.pdb
